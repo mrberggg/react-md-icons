@@ -4,7 +4,7 @@
   "description": "Simple React Material Design Icon Components",
   "main": "src/index.js",
   "scripts": {
-    "build": "babel ./src --out-dir lib"
+    "build": "rimraf ./lib && babel ./src/icons --out-dir lib"
   },
   "keywords": [
     "react",
@@ -22,6 +22,7 @@
     "babel-core": "^6.3.17",
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-react": "^6.3.13",
-    "babel-preset-stage-0": "^6.3.13"
+    "babel-preset-stage-0": "^6.3.13",
+    "rimraf": "^2.5.2"
   }
 }
