@@ -1,6 +1,6 @@
 {
   "name": "react-md-icons",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Simple React Material Design Icon Components",
   "main": "lib/index.js",
   "scripts": {
