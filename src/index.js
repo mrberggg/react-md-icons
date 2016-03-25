@@ -358,6 +358,21 @@ export {_SchoolIcon as SchoolIcon};
 import _SearchIcon from './icons/SearchIcon';
 export {_SearchIcon as SearchIcon};
 
+import _SentimentDissatisfiedIcon from './icons/SentimentDissatisfiedIcon';
+export{_SentimentDissatisfiedIcon as SentimentDissatisfiedIcon};
+
+import _SentimentNeutralIcon from './icons/SentimentNeutralIcon';
+export{_SentimentNeutralIcon as SentimentDNeutralIcon};
+
+import _SentimentSatisfiedIcon from './icons/SentimentSatisfiedIcon';
+export{_SentimentSatisfiedIcon as SentimentSatisfiedIcon};
+
+import _SentimentVeryDissatisfiedIcon from './icons/SentimentVeryDissatisfiedIcon';
+export{_SentimentVeryDissatisfiedIcon as SentimentVeryDissatisfiedIcon};
+
+import _SentimentVerySatisfiedIcon from './icons/SentimentVerySatisfiedIcon';
+export{_SentimentVerySatisfiedIcon as SentimentVerySatisfiedIcon};
+
 import _SettingsIcon from './icons/SettingsIcon';
 export {_SettingsIcon as SettingsIcon};
 
