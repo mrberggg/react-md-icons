@@ -1,4 +1,4 @@
-# React MD Icons [ARCHIVED]
+# React MD Icons [DEPRECATED]
 
 *Note: this is no longer maintained. Was created because at the time no library had the icons I needed. There are now many good alternatives that are more complete and better maintained. I recommend [react-icons](https://gorangajic.github.io/react-icons/).*
 
